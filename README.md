@@ -1,3 +1,2 @@
 # Deep-Learning
-Dog Breed Image Classification.
-Data has been taken from Kaggle Competition.
+Image Classification Projects using mobilenetV2 and VGG16 models.
